@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=octocat)
+
+
+
 <!--
 **ioannis-rz/ioannis-rz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
