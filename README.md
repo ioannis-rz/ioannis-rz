@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=octocat)
 
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ioannis-rz&theme=catppuccin)
+
+![Top Languages](https://ghstats.dev/api/langs?username=ioannis-rz&theme=catppuccin)
 
 
 <!--
